@@ -9,8 +9,6 @@ externas, que implementa desde cero el protocolo **Android TV Remote v2** (TLS c
 
 <p align="center">
   <img src="docs/screenshot-remote.png" alt="Mando a distancia de Smart TV Remote conectado a una TV" width="280">
-  &nbsp;&nbsp;
-  <img src="docs/screenshot-onboarding.png" alt="Pantalla inicial de Smart TV Remote" width="280">
 </p>
 
 ## Características
