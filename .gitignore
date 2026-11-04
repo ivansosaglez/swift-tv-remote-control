@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode: build y datos de usuario
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Binarios de pruebas locales (Tools/SelfTest)
+Tools/SelfTest/SelfTest
+*.o
+
+# Secretos y firma (nunca subir)
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*.cer
+.env
+
+# Editores
+.idea/
+.vscode/
+*.swp
+
+# Sesiones de Claude Code (configuración local)
+.claude/
